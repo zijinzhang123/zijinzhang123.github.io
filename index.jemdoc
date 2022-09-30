@@ -19,7 +19,7 @@ Phone: 734-764-2343 \n
 == About me
 I'm currently a fourth year Ph.D. student at the University of Michigan. I am fortunate to be advised by Professor [https://michiganross.umich.edu/faculty-research/faculty/hyun-soo-ahn Hyun-Soo Ahn] and Professor [https://baardman.github.io/ Lennart Baardman].
 My research focuses on developing data-driven algorithms for decision making in revenue management, e-commerce, and supply chain management. 
-In my works, I look for applications to the intersection of operations management and marketing. Particularly, my PhD projects are highly motivated by subcription e-commerce. \n
+In my works, I look for applications to the intersection of operations management and marketing. Particularly, my PhD projects are mainly motivated by subcription e-commerce. \n
 
 As side interests, I am excited about exploring topics including fairness, privacy, and information diffusion in networks. 
 
@@ -33,7 +33,7 @@ As side interests, I am excited about exploring topics including fairness, priva
 - Approximation Algorithm, Learning Theory
 
 == News
-- \[10-18-2022\] I will give a talk at in 2022 INFORMS Annual Meeting about our paper, /"Ordering and Ranking Products for an Online Retailer"/!
+- \[10-18-2022\] I will give a talk at 2022 INFORMS Annual Meeting about our paper, /"Ordering and Ranking Products for an Online Retailer"/!
 #- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
 #- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
 #- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 

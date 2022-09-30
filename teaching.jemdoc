@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter
 == Teaching 
 
-=== Instructor: BBA Core
+== Instructor: BBA Core
 
 ~~~
 {}{img_left}{photos/to313_pic.jpeg}{alt text}{550}{350}
@@ -10,10 +10,11 @@
 -  Role: Lectured twice a week (1.5 hours each); held weekly office hours; designed and implemented in-class activities; guided team projects; co-developed exams and course materials
 - Topics: Process analysis, waiting time analysis, inventory management, project management,
 supply chain management and sustainability, demand forecasting, and revenue management
+
+
 ~~~
 
-
-=== Assist for MBA, EMBA, and PhD-level courses
+== Assist for MBA, EMBA, and PhD-level courses
 *Instructional Support Specialist*, MBA/EMBA courses
 - TO 534: Introduction to Operations, Summer 2022
 - EMBA 610: Managerial Big Data Analytics, Summer 2022
