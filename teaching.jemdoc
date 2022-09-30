@@ -1,68 +1,32 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter
 == Teaching 
 
-=== Volumetric Capture Studio
+=== Instructor: BBA Core
 
 ~~~
-{}{img_left}{gif/Yu.gif}{alt text}{480}{480}
-Digital human \n
-See clear [webm/Yu.webm video] \n
+{}{img_left}{photos/to313_pic.jpeg}{alt text}{550}{350}
+*Operations Management* (TO 313), Fall 2021
+- Teaching evaluation: 4.9/5.0 (class size: 75)
+-  Role: Lectured twice a week (1.5 hours each); held weekly office hours; designed and implemented in-class activities; guided team projects; co-developed exams and course materials
+- Topics: Process analysis, waiting time analysis, inventory management, project management,
+supply chain management and sustainability, demand forecasting, and revenue management
 ~~~
+
+
+=== Assist for MBA, EMBA, and PhD-level courses
+*Instructional Support Specialist*, MBA/EMBA courses
+- TO 534: Introduction to Operations, Summer 2022
+- EMBA 610: Managerial Big Data Analytics, Summer 2022
+- Online Executive Education: Value Driven Thinking, Spring 2022
+- EMBA Quantitative Skills Workshop, Summer 2021
+- Business Analytics and Statistics for Executives, Fall 2020
 \n
 
-~~~
-{}{img_left}{gif/PPE.gif}{alt text}{480}{360}
-Digital human, PPE training \n
-See clear [webm/PPE.webm video] \n
-~~~
-\n
+*Teaching Assistant*
+- TO 899: T&O PhD Seminar: Inventory Theory, Fall 2022
+- TO 421: Logistics, Winter 2021
+- TO 618: Applied Business Analytics and Decisions, Fall 2020
+- TO 605: Manufacturing and Supply Operations, Fall 2019, Winter 2020
 
-=== Volumetric Capture Object Scan
 
-~~~
-{}{img_left}{gif/dragon.gif}{alt text}{397}{300}
-Relighting in Virtural Environment \n
-See clear [webm/dragon.webm video] \n
-~~~
-\n
 
-~~~
-{}{img_left}{gif/statue.gif}{alt text}{397}{300}
-3D Model Reconstruction \n
-See clear [webm/statue.webm video] \n
-~~~
-\n
-
-~~~
-{}{img_left}{gif/maho_all.gif}{alt text}{397}{300}
-Model Used in Unreal Engien \n
-See clear [webm/maho_all.webm video] \n
-~~~
-\n
-
-=== Volumetric Capture Face Dome
-
-~~~
-{}{img_left}{gif/face.gif}{alt text}{784}{240}
-Relighting in Virtural Environment \n
-See clear [webm/face.webm video] \n
-~~~
-\n
-
-=== Image and Video Inpainting Library Demo
-
-~~~
-{}{img_left}{gif/dgene.gif}{alt text}{768}{384}
-Old movie gate hair removal \n
-See clear [webm/dgene.webm video] \n
-~~~
-\n
-
-=== Face Data Generation for Specific Person
-
-~~~
-{}{img_left}{gif/lerp1.gif}{alt text}{768}{384}
-Emotion generation for specific person \n
-See clear [webm/lerp1.webm video] \n
-~~~
-\n

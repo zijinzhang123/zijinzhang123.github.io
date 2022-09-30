@@ -2,41 +2,38 @@
 == Zijin Zhang
 
 ~~~
-{}{img_left}{photos/pic.jpeg}{alt text}{200px}{220px}
+{}{img_left}{photos/pic.jpeg}{alt text}{335px}{350px}
 [https://zijinzhang123.github.io Zijin Zhang], Ph.D. Candidate \n 
-Technology & Operations at [https://michiganross.umich.edu/ Ross School of Business], [https://umich.edu/ University of Michigan] \n
+Technology & Operations at [https://michiganross.umich.edu/ Ross School of Business], University of Michigan\n
 Ann Arbor, Michigan, United States \n
 \n
 Email: zijinz \[at\] umich \[dot\] edu \n
 Phone: 734-764-2343 \n
-\[[https://www.linkedin.com/in/zijin-zhang-60550b206 linkedin]\] \[[https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4233887 SSRN]\] \n #\[[CV.pdf Curriculem Vitae]\]
+\[[https://www.linkedin.com/in/zijin-zhang-60550b206 linkedin]\] \[[https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4233887 SSRN]\] \[[CV.pdf Curriculem Vitae]\] \n
 ~~~
 
 
 #at Baton Rouge, Louisiana, USA. (March 19, 2021)
 #at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 
-#== News
-#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
-#- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
-#- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
-#- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
-#- \[08-18-2018\] "Local low-rank Hawkes processes for temporal user-item interactions" is accepted by ICDM'18!
-#- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
-
 == About me
-I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
+I'm currently a fourth year Ph.D. student at the University of Michigan. I am fortunate to be advised by Professor [https://michiganross.umich.edu/faculty-research/faculty/hyun-soo-ahn Hyun-Soo Ahn] and Professor [https://baardman.github.io/ Lennart Baardman].
+My research focuses on developing data-driven algorithms for decision making in revenue management, e-commerce, and supply chain management. 
+In my works, I look for applications to the intersection of operations management and marketing. Particularly, my PhD projects are highly motivated by subcription e-commerce. \n
+
+As side interests, I am excited about exploring topics including fairness, privacy, and information diffusion in networks. 
 
 == Education 
 - Ph.D. in Technology & Operations, University of Michigan, 2019 - 2024 (expected)
 - B.S. in Mathematics and Statistics, Nanjing University, 2014 - 2018
+- Exchange student, University of Wisconsin-Madison, 2017
 
 == Research Interests 
 - Revenue Management, E-Commerce, Consumer Behavior
 - Approximation Algorithm, Learning Theory
 
 == News
-#- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
+- \[10-18-2022\] I will give a talk at in 2022 INFORMS Annual Meeting about our paper, /"Ordering and Ranking Products for an Online Retailer"/!
 #- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
 #- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
 #- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
