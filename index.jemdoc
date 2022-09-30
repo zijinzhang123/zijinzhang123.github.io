@@ -2,14 +2,14 @@
 == Zijin Zhang
 
 ~~~
-{}{img_left}{photos/pic.jpg}{alt text}{300px}{400px}
+{}{img_left}{photos/pic.jpeg}{alt text}{200px}{220px}
 [https://zijinzhang123.github.io Zijin Zhang], Ph.D. Candidate \n 
 Technology & Operations at [https://michiganross.umich.edu/ Ross School of Business], [https://umich.edu/ University of Michigan] \n
 Ann Arbor, Michigan, United States \n
 \n
 Email: zijinz \[at\] umich \[dot\] edu \n
 Phone: 734-764-2343 \n
-\[[https://www.linkedin.com/in/zijin-zhang-60550b206 linkedin]\]\[[CV.pdf Curriculem Vitae]\] \n
+\[[https://www.linkedin.com/in/zijin-zhang-60550b206 linkedin]\] \[[https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4233887 SSRN]\] \n #\[[CV.pdf Curriculem Vitae]\]
 ~~~
 
 
@@ -28,14 +28,12 @@ Phone: 734-764-2343 \n
 I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
 
 == Education 
-- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
-- M.S. in Solid Mechanics, University of Science and Technology of China, Sep. 2013 - Jun. 2016
-- B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sep. 2009 - Jun. 2013
+- Ph.D. in Technology & Operations, University of Michigan, 2019 - 2024 (expected)
+- B.S. in Mathematics and Statistics, Nanjing University, 2014 - 2018
 
 == Research Interests 
-- Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
-- Data Mining, Information Retrieval, Recommender System 
-- Computer Vision, Computer Graphics, Natural Language Processing
+- Revenue Management, E-Commerce, Consumer Behavior
+- Approximation Algorithm, Learning Theory
 
 == News
 #- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
