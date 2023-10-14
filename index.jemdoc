@@ -2,7 +2,7 @@
 == Zijin Zhang
 
 ~~~
-{}{img_left}{photos/profile_pic.jpeg}{alt text}{350px}{350px}
+{}{img_left}{photos/profile_pic.jpeg}{alt text}{250px}{250px}
 [https://www.zijinzhang.com/ Zijin Zhang], Ph.D. Candidate \n 
 Technology & Operations at [https://michiganross.umich.edu/ Ross School of Business], University of Michigan\n
 Ann Arbor, Michigan, United States \n
@@ -20,23 +20,23 @@ Phone: 734-764-2343 \n
 #at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 
 == About me
-I'm currently a fourth year Ph.D. student at the University of Michigan. I am fortunate to be advised by Professor [https://michiganross.umich.edu/faculty-research/faculty/hyun-soo-ahn Hyun-Soo Ahn] and Professor [https://baardman.github.io/ Lennart Baardman].
-My research focuses on developing data-driven algorithms for decision making in revenue management, e-commerce, and supply chain management. 
-In my works, I look for applications to the intersection of operations management and marketing. Particularly, my PhD projects are mainly motivated by subscription e-commerce. \n
+I'm currently a fifth year Ph.D. student at the University of Michigan. I am fortunate to be advised by Professor [https://michiganross.umich.edu/faculty-research/faculty/hyun-soo-ahn Hyun-Soo Ahn] and Professor [https://baardman.github.io/ Lennart Baardman].
+My research focuses on data-driven decision making in revenue management, e-commerce, and supply chain management. 
+In my works, I look for applications to the intersection of operations management and marketing.
 
-As side interests, I am excited about topics including fairness, privacy, and information diffusion on networks. 
+
 
 == Education 
-- Ph.D. in Technology & Operations, University of Michigan, 2019 - 2024 (expected)
+- Ph.D. in Technology & Operations, University of Michigan, 2019 - 2025 (expected)
 - B.S. in Mathematics and Statistics, Nanjing University, 2014 - 2018
 - Exchange student, University of Wisconsin-Madison, 2017
 
 == Research Interests 
 - Revenue Management, E-Commerce, Customer Behavior
-- Approximation Algorithm, Online Learning
+- Approximation Algorithm, Active Learning
 
-== News
-- \[10-18-2022\] I will give a talk at 2022 INFORMS Annual Meeting about our paper, /"Ordering and Ranking Products for an Online Retailer"/!
+#== News
+#- \[10-18-2022\] I will give a talk at 2022 INFORMS Annual Meeting about our paper, /"Ordering and Ranking Products for an Online Retailer"/!
 #- \[05-04-2020\] Defended my Ph.D. dissertation titled "Predictive modeling of asynchronous event sequence data"!
 #- \[05-25-2019\] An extention of our ICDM'18 work "Local low-rank Hawkes processes for modeling temporal user-item interactions" is accepted by Knowledge and Information Systems(KAIS)!
 #- \[10-31-2018\] "Geometric Hawkes processes with graph convolutional recurrent neural networks" is accepted by AAAI'19! 
