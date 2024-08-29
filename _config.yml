@@ -9,8 +9,8 @@ permalink:        pretty
 # Setup
 title:            Zijin Zhang
 tagline:          #'A Jekyll theme'
-description:      'PhD Candidate in Technology & Operations' #'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://www.zijinzhang.com
+description:      'PhD Candidate in Technology & Operations' 
+url:              //www.zijinzhang.com
 baseurl:          /
 
 # author:
@@ -26,7 +26,7 @@ paginate_path:       "page:num"
 #version:          #2.1.0
 
 github:
-  repo:           https://github.com/zijinzhang123/zijinzhang123.github.io
+  repo:           //github.com/zijinzhang123/zijinzhang123.github.io
 
 plugins:
   - jekyll-gist
