@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Zijin Zhang
+tagline:          #'A Jekyll theme'
+description:      'PhD Candidate in Technology & Operations' #'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://www.zijinzhang.com
+baseurl:          /
+
+# author:
+#   name:           'Mark Otto'
+#   url:            https://twitter.com/mdo
+
+#paginate:         5
+gems:                [jekyll-paginate]
+paginate:            5
+paginate_path:       "page:num"
+
+# Custom vars
+#version:          #2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+plugins:
+  - jekyll-gist
