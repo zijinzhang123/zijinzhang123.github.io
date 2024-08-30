@@ -5,10 +5,10 @@ title: Awards
 
 ## Awards
 
-- Rackham Doctoral Intern Fellowship , 2024 - 2025
+- Rackham Doctoral Intern Fellowship , 2024
 - Spivey Hall Fellowship, 2023 - 2024
-- Thomas William Leabo Fellowship, 2022 - 2023
 - Ross China Research Award, 2023
+- Thomas William Leabo Fellowship, 2022 - 2023
 - Early Candidacy Award, Ross School of Business, 2021
 - Academic Scholarship, Nanjing University, 2014 - 2018
 - Merit Student of Jiangsu Province, 2017
