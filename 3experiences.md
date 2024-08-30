@@ -30,13 +30,14 @@ Avid hiker, squash player, rock climber, tennis learner, and nature explorer
 <table style="border:hidden;">
   <tr>
     <td><img src="/public/hike1.jpeg" width=325 height=250></td>
+    <td><img src="/public/hike5.jpg" width=325 height=250></td>
     <td><img src="/public/hike2.jpg" width = 325 height=250></td>
-    <td><img src="/public/hike3.jpg" width=325 height=250></td>
+
   </tr>
     <tr>
     <td>Patagonia, Chile (Nov 2022)</td>
-     <td>Acadia, Maine (Aug 2024) </td>
-     <td> Horseshoe Bend, Arizona (Nov 2020) </td>
+    <td> Flynn Reef, Australia (Jan 2023) </td>
+    <td> Acadia, Maine (Aug 2024) </td>
   </tr>
  </table>
 
