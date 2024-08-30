@@ -5,7 +5,7 @@ title: Awards
 
 ## Awards
 
-- Rackham Doctoral Intern Fellowship , 2024
+- Rackham Doctoral Intern Fellowship, 2024
 - Spivey Hall Fellowship, 2023 - 2024
 - Ross China Research Award, 2023
 - Thomas William Leabo Fellowship, 2022 - 2023
