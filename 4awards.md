@@ -3,7 +3,7 @@ layout: page
 title: Awards
 ---
 
-## Awards
+## Awards & Honors
 
 - Rackham Doctoral Intern Fellowship, 2024
 - Spivey Hall Fellowship, 2023 - 2024
