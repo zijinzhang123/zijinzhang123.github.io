@@ -21,7 +21,7 @@ title: Teaching
 - Online Executive Education: Value Driven Thinking, 2022
 - EMBA Quantitative Skills Workshop, 2021
 
-## Teaching Assistant, EMBA
+## Teaching Assistant, MBA and PhD
 
 - TO 550: Introduction to Data Programming, 2024
 - TO 593: Operations Management, 2023
