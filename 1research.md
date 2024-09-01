@@ -17,3 +17,7 @@ title: Research
 - Selected for oral presentation at APSA 2024
 
 ## Work-in-Progress
+<ol start="5">
+  <li>Rethinking College Admissions: Can Test-Optional Policy Even the Playing Field? with Yao Cui and Stefanus Jasin,
+manuscript in preparation </li>
+</ol>
