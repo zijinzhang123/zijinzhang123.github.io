@@ -14,8 +14,8 @@ title: Experiences
 
 ## Community Service
 - INFORMS Annual Conference Session Co-Chair, 2024
-- Invited Speaker at INFORMS Panel Minority Issues Forum, 2024
-- Invited Speaker at Ross PhD Program Information Session, 2020 - 2024
+- Invited Speaker at INFORMS Panel: Minority Issues Forum, 2024
+- Invited Speaker at Ross PhD Information Session, 2020 - 2024
 - Student Organizer for Technology & Operations Department Seminar, 2022 - 2023
 - Invited Speaker at Ross GSI Teaching Panel, 2022
 - Communication and Social Chair, Ross School of Business PhD Forum, 2020 - 2022
