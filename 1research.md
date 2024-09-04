@@ -5,10 +5,10 @@ title: Research
 
 ## Research Papers
 
-1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman, preparing resubmission to **Manufacturing & Service Operations Management**
-- Selected for SIG spotlight, MSOM 2024
-
 1. More Data or Better Data? The Impact of Data Collection on the Newsvendor Problem, with Hyun-Soo Ahn and Lennart Baardman, to be submitted to **Management Science**
+
+1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman, preparing for resubmission to **Manufacturing & Service Operations Management**
+- Selected for SIG spotlight, MSOM 2024
 
 1. [Capacity Scaling for Observable Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, and Rowan Wang, under review at **Manufacturing & Service Operations Management**
 
