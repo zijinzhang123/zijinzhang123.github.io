@@ -13,7 +13,7 @@ title: Experiences
 &emsp; Credit Risk Analyst Intern
 
 ## Community Service
-- INFORMS Annual Conference Session Co-Chair (with Prof Joline Uichanco), 2024
+- INFORMS Annual Conference Session Co-Chair, 2024
 - Invited Speaker at INFORMS Panel Minority Issues Forum, 2024
 - Invited Speaker at Ross PhD Program Information Session, 2020 - 2024
 - Student Organizer for Technology & Operations Department Seminar, 2022 - 2023
