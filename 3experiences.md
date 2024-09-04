@@ -20,7 +20,7 @@ title: Experiences
 - Invited Speaker at Ross GSI Teaching Panel, 2022
 - Communication and Social Chair, Ross School of Business PhD Forum, 2020 - 2022
 - Advisory Board for Rem & Co. (free consulting service to minority-owned local business), 2021
-- Doctoral Program Peer-to-Peer Mentoring, University of Michigan, 2020
+- Doctoral Program Peer-to-Peer Mentor, University of Michigan, 2020
 - Communication Fellow, Nanjing Museum, 2015 - 2017
 - Vice President, Department of Mathematics, Nanjing University, 2015
 
