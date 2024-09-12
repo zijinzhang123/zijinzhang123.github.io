@@ -9,7 +9,7 @@ title: Teaching
 <img style="display: block; margin: auto;" src="/public/to313_pic.jpeg" alt="drawing" width="420" height = "275"/>
 
 - Teaching evaluation: **4.9/5.0** (class size: 75), Fall 2021
-- Role: lectured twice a week (1.5 hours each); held weekly office hours; designed and implemented in-class activities; guided team projects; co-developed exams and course materials
+- Role: solo lectured twice a week (1.5 hours each); held weekly office hours; guided team projects; designed course materials and in-class activities
 - Topics: process analysis, waiting time analysis, inventory management, project management, supply chain management and sustainability, demand forecasting, and revenue management
 
 
