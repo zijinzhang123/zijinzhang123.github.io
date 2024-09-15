@@ -13,7 +13,7 @@ title: Research
 1. [Capacity Scaling for Observable Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, and Rowan Wang, under review at **Manufacturing & Service Operations Management**
 - Presented to China Municipal Health Commission to support national-level planning of COVID testing sites
 
-1.  [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui, to be submitted to **Comparative Political Studies** 
+1.  [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui, preparing for submission to **Comparative Political Studies** 
 - Ross China Research Award
 - Selected for oral presentation at APSA 2024
 
