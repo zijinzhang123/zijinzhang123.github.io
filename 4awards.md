@@ -7,7 +7,7 @@ title: Awards
 - Rackham Doctoral Intern Fellowship, 2024
 - Spivey Hall Fellowship, 2023 - 2024
     -  For academic and research excellence
-- PhD Fellowship, Ross School of Business, 2019 - 2024
+<!-- - PhD Fellowship, Ross School of Business, 2019 - 2024 -->
 - Ross China Research Award, 2023
 - Thomas William Leabo Fellowship, 2022 - 2023
     -  For academic and teaching excellence
