@@ -13,17 +13,17 @@ title: Research
 1. [Capacity Scaling for Observable Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, and Rowan Wang, under review at **Manufacturing & Service Operations Management**
 - Presented to China Municipal Health Commission to support national-level planning of COVID testing sites
 
-<!-- 1. [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui, preparing for submission to **Comparative Political Studies** 
+1. [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui, preparing for submission to **Comparative Political Studies** 
 - Ross China Research Award
-- Selected for oral presentation at APSA 2024 -->
+- Selected for oral presentation at APSA 2024
 
 ## Work-in-Progress
 <ol start="4">
-  <li>  <a href="/public/beyond_the_promise.pdf">Beyond the Promise: Distributional Discordance in China’s Pandemic Control</a>, with Jingyang Rui, preparing for submission to  <strong>Comparative Political Studies </strong></li>
+  <!-- <li>  <a href="/public/beyond_the_promise.pdf">Beyond the Promise: Distributional Discordance in China’s Pandemic Control</a>, with Jingyang Rui, preparing for submission to  <strong>Comparative Political Studies </strong></li>
     <ul>
       <li> Ross China Research Award </li>
       <li> Selected for oral presentation at APSA 2024 </li>
-    </ul>
+    </ul> -->
   <li>Rethinking College Admissions: Can Test-Optional Policy Even the Playing Field? with Yao Cui and Stefanus Jasin,
 manuscript in preparation </li>
 </ol>
