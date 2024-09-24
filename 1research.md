@@ -20,6 +20,7 @@ title: Research
 ## Work-in-Progress
 <ol start="5">
   <li>  <a href="/public/beyond_the_promise.pdf">Beyond the Promise: Distributional Discordance in China’s Pandemic Control</a>, with Jingyang Rui, preparing for submission to  <b>Comparative Political Studies <b> </li>
+  
   <li>Rethinking College Admissions: Can Test-Optional Policy Even the Playing Field? with Yao Cui and Stefanus Jasin,
 manuscript in preparation </li>
 </ol>
