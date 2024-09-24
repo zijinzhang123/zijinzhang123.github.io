@@ -18,7 +18,7 @@ title: Research
 - Selected for oral presentation at APSA 2024
 
 ## Work-in-Progress
-<ol start="4">
+<ol start="5">
   <!-- <li>  <a href="/public/beyond_the_promise.pdf">Beyond the Promise: Distributional Discordance in China’s Pandemic Control</a>, with Jingyang Rui, preparing for submission to  <strong>Comparative Political Studies </strong></li>
     <ul>
       <li> Ross China Research Award </li>
