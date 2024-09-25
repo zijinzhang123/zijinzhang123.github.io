@@ -26,4 +26,5 @@ title: Research
     </ul> -->
   <li>Rethinking College Admissions: Can Test-Optional Policy Even the Playing Field? with Yao Cui and Stefanus Jasin,
 manuscript in preparation </li>
+  <li>Environment-Aware Dynamic Data Collection, with Hyun-Soo Ahn and Lennart Baardman, results development stage </li>
 </ol>
