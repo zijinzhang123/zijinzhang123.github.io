@@ -3,6 +3,9 @@ layout: page
 title: Research
 ---
 
+Topics: Retail Analytics, Inventory Management, Societal Decision-Making
+Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm
+
 ## Research Papers
 
 1. [More Data or Better Data? Impact of Costly Data Collection on the Newsvendor Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4949043), with Hyun-Soo Ahn and Lennart Baardman, under review at **Management Science**
