@@ -4,6 +4,7 @@ title: Research
 ---
 
 Topics: Retail Analytics, Inventory Management, Societal Decision-Making
+
 Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm
 
 ## Research Papers
