@@ -31,5 +31,5 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
   <li>Rethinking College Admissions: Can Test-Optional Policy Even the Playing Field? with Yao Cui and Stefanus Jasin,
 manuscript in preparation </li>
    <br /> 
-  <li>Environment-Aware Dynamic Data Collection, with Hyun-Soo Ahn and Lennart Baardman, results development stage </li>
+  <li>Context-Aware Dynamic Data Collection, with Hyun-Soo Ahn and Lennart Baardman, results development stage </li>
 </ol>
