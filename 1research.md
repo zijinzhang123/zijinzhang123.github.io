@@ -9,7 +9,7 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 
 ## Research Papers
 
-1. [More Data or Better Data? Impact of Costly Data Collection on the Newsvendor Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4949043), with Hyun-Soo Ahn and Lennart Baardman, **major revision** at **Management Science**
+1. [More Data or Better Data? Impact of Costly Data Collection on the Newsvendor Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4949043), with Hyun-Soo Ahn and Lennart Baardman, ***major revision*** at **Management Science**
 
 1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman, preparing for 2nd round revision to **Manufacturing & Service Operations Management**
 - Selected for SIG spotlight, MSOM 2024
