@@ -21,15 +21,12 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 - Ross China Research Award
 - Selected for oral presentation at APSA 2024
 
-## Work-in-Progress
+1. [Rethinking College Admissions: Can Test-Optional Policy Even the Playing Field?] with Yao Cui and Stefanus Jasin
+
+<!-- ## Work-in-Progress
 <ol start="5">
-  <!-- <li>  <a href="/public/beyond_the_promise.pdf">Beyond the Promise: Distributional Discordance in China’s Pandemic Control</a>, with Jingyang Rui, preparing for submission to  <strong>Comparative Political Studies </strong></li>
-    <ul>
-      <li> Ross China Research Award </li>
-      <li> Selected for oral presentation at APSA 2024 </li>
-    </ul> -->
   <li>Rethinking College Admissions: Can Test-Optional Policy Even the Playing Field? with Yao Cui and Stefanus Jasin,
 manuscript in preparation </li>
    <br /> 
   <li>Context-Aware Dynamic Data Collection, with Hyun-Soo Ahn and Lennart Baardman, results development stage </li>
-</ol>
+</ol> -->
