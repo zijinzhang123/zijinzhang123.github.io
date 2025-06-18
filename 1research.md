@@ -14,12 +14,12 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman. *Reject and resubmit* at **Manufacturing & Service Operations Management**
 - Selected for MSOM SIG spotlight 2024
 
-1. [Rethinking College Admissions: Can Test-Optional Policies Even the Playing Field?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296222), with Yao Cui and Stefanus Jasin. Under review at **Management Science**
+1. [Rethinking College Admissions: Can Test-Optional Policies Even the Playing Field?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296222) with Yao Cui and Stefanus Jasin. Under review at **Management Science**
 
 1. [Capacity Scaling for Observable Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, and Rowan Wang. Under review at **Manufacturing & Service Operations Management**
 
 1. [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui. Preparing for submission
-- Ross China Research Award
+- Ross China Research Award 2023
 - Selected for oral presentation at APSA 2024
 - Selected for Rising Star paper at CES North America Conference 2025
 
