@@ -39,7 +39,7 @@ Avid hiker, squash player, rock climber, tennis learner, and nature explorer
     <td> Acadia, Maine (Aug 2024) </td>
   </tr>
     <tr>
-    <td><img src="/public/hike6.jpeg" width=325 height=250></td>
+    <td><img src="/public/hike6.jpg" width=325 height=250></td>
   </tr>
     <tr>
     <td>ACT, Nepal (Apr 2025)</td>
