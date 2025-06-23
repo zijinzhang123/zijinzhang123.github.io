@@ -6,11 +6,9 @@ title: Awards
 ## Awards & Honors
 - Rackham Doctoral Intern Fellowship, 2024
 - Spivey Hall Fellowship, 2023 - 2024
-    -  For academic and research excellence
-<!-- - PhD Fellowship, Ross School of Business, 2019 - 2024 -->
+- Ph.D. Fellowship, University of Michigan, 2019 - 2024
 - Ross China Research Award, 2023
 - Thomas William Leabo Fellowship, 2022 - 2023
-    -  For academic and teaching excellence
 - Early Candidacy Award, Ross School of Business, 2021
 - Academic Scholarship, Nanjing University, 2014 - 2018
 - Merit Student of Jiangsu Province, 2017

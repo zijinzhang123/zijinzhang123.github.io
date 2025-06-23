@@ -9,8 +9,9 @@ title: Teaching
 <img style="display: block; margin: auto;" src="/public/to313_pic.jpeg" alt="drawing" width="420" height = "275"/>
 
 - Teaching Evaluation: **4.9/5.0**, Fall 2021 (class size: 75 students)
-- Role: Solo lectured twice a week (1.5 hours each); held weekly office hours; guided team projects; designed course materials and in-class activities
-- Topics: Process analysis, waiting time analysis, inventory management, project management, supply chain management and sustainability, demand forecasting, and revenue management
+- Recipient of Thomas W. Leabo Fellowship for research and teaching excellence 2022 - 2023
+<!-- - Role: Solo lectured twice a week (1.5 hours each); held weekly office hours; guided team projects; designed course materials and in-class activities
+- Topics: Process analysis, waiting time analysis, inventory management, project management, supply chain management and sustainability, demand forecasting, and revenue management -->
 
 
 ## Instructional Support, EMBA
