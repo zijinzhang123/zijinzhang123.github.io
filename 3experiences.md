@@ -8,7 +8,7 @@ title: Experiences
 - [Oracle](https://www.oracle.com/), Burlington, MA, 2022\
 &emsp; Data Scientist Intern (optimization team at the global business unit)
 - [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), S.T., Hong Kong, 2019\
-&emsp; Junior Research Fellow
+&emsp; Research Fellow
 - [CITIC Group](https://www.citicbank.com/), Beijing, China, 2015\
 &emsp; Credit Risk Analyst Intern
 
