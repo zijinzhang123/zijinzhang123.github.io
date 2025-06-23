@@ -30,8 +30,8 @@ Avid hiker, squash player, rock climber, tennis learner, and nature explorer
 <table style="border:hidden;">
   <tr>
     <td><img src="/public/hike6.jpg" width=250 height=270></td>
-    <td><img src="/public/hike2.jpg" width = 250 height=270></td>
     <td><img src="/public/hike5.jpg" width=250 height=270></td>
+    <td><img src="/public/hike2.jpg" width = 250 height=270></td>
   </tr>
   <tr>
     <td> ACT, Nepal (Apr 2025)</td>
