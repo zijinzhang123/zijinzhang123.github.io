@@ -29,9 +29,9 @@ Avid hiker, squash player, rock climber, tennis learner, and nature explorer
 
 <table style="border:hidden;">
   <tr>
-    <td><img src="/public/hike00.jpg" width=325 height=300></td>
-    <td><img src="/public/hike0.jpg" width=325 height=300></td>
-    <td><img src="/public/hike1.jpeg" width=325 height=300></td>
+    <td><img src="/public/hike00.jpg" width=280 height=250></td>
+    <td><img src="/public/hike0.jpg" width=280 height=250></td>
+    <td><img src="/public/hike1.jpeg" width=280 height=250></td>
   </tr>
     <tr>
     <td>Olympic, Washington (Jun 2021)</td>
@@ -39,9 +39,9 @@ Avid hiker, squash player, rock climber, tennis learner, and nature explorer
     <td>Patagonia, Chile (Nov 2022)</td>
   </tr>
     <tr>
-    <td><img src="/public/hike5.jpg" width=325 height=300></td>
-    <td><img src="/public/hike2.jpg" width = 325 height=300></td>
-    <td><img src="/public/hike6.jpg" width=325 height=300></td>
+    <td><img src="/public/hike5.jpg" width=280 height=250></td>
+    <td><img src="/public/hike2.jpg" width = 280 height=250></td>
+    <td><img src="/public/hike6.jpg" width=280 height=250></td>
   </tr>
     <tr>
     <td> Flynn Reef, Australia (Jan 2023) </td>
