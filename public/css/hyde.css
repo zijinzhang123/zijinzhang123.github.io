@@ -248,20 +248,20 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* Michigan */
+/* Michigan
 .theme-base-0g .sidebar {
   background-color: #00274C;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
   color: #2F65A7;
-}
+} */
 
-/* Boston College
+/* Boston College */
 .theme-base-0g .sidebar {
   background-color: #8a100b;
 }
 .theme-base-0g .content a,
 .theme-base-0g .related-posts li a:hover {
   color: #98002E;
-} */
+}
