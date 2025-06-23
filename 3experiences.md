@@ -9,7 +9,7 @@ title: Experiences
 &emsp; Data Scientist Intern (optimization team at the global business unit)
 - [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), S.T., Hong Kong, 2019\
 &emsp; Junior Research Fellow
-- [China CITIC Bank](https://www.citicbank.com/), Beijing, China, 2015\
+- [CITIC Group](https://www.citicbank.com/), Beijing, China, 2015\
 &emsp; Credit Risk Analyst Intern
 
 ## Community Service
@@ -32,12 +32,18 @@ Avid hiker, squash player, rock climber, tennis learner, and nature explorer
     <td><img src="/public/hike1.jpeg" width=325 height=250></td>
     <td><img src="/public/hike5.jpg" width=325 height=250></td>
     <td><img src="/public/hike2.jpg" width = 325 height=250></td>
-
   </tr>
     <tr>
     <td>Patagonia, Chile (Nov 2022)</td>
     <td> Flynn Reef, Australia (Jan 2023) </td>
     <td> Acadia, Maine (Aug 2024) </td>
   </tr>
+    <tr>
+    <td><img src="/public/hike6.jpeg" width=325 height=250></td>
+  </tr>
+    <tr>
+    <td>ACT, Nepal (Apr 2025)</td>
+  </tr>
  </table>
+
 
