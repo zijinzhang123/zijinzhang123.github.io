@@ -25,7 +25,7 @@ title: Experiences
 - Vice President, Department of Mathematics, Nanjing University, 2015
 
 ## Miscellaneous
-Avid hiker, squash player, rock climber, tennis learner, and nature explorer
+Avid backpacker, squash player, rock climber, tennis learner, and nature explorer
 
 <table style="border:hidden;">
   <tr>
