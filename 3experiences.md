@@ -29,19 +29,23 @@ Avid hiker, squash player, rock climber, tennis learner, and nature explorer
 
 <table style="border:hidden;">
   <tr>
+    <td><img src="/public/hike00.jpeg" width=325 height=250></td>
+    <td><img src="/public/hike0.jpeg" width=325 height=250></td>
     <td><img src="/public/hike1.jpeg" width=325 height=250></td>
+  </tr>
+    <tr>
+    <td>Olympic, Washington (June 2021)</td>
+    <td>Inca, Peru (May 2022)</td>
+    <td>Patagonia, Chile (Nov 2022)</td>
+  </tr>
+    <tr>
     <td><img src="/public/hike5.jpg" width=325 height=250></td>
     <td><img src="/public/hike2.jpg" width = 325 height=250></td>
-  </tr>
-    <tr>
-    <td>Patagonia, Chile (Nov 2022)</td>
-    <td> Flynn Reef, Australia (Jan 2023) </td>
-    <td> Acadia, Maine (Aug 2024) </td>
-  </tr>
-    <tr>
     <td><img src="/public/hike6.jpg" width=325 height=250></td>
   </tr>
     <tr>
+    <td> Flynn Reef, Australia (Jan 2023) </td>
+    <td> Acadia, Maine (Aug 2024) </td>
     <td>ACT, Nepal (Apr 2025)</td>
   </tr>
  </table>
