@@ -45,8 +45,8 @@ Avid hiker, squash player, rock climber, tennis learner, and nature explorer
   </tr>
   <tr>
     <td>Patagonia, Chile (Nov 2022)</td>
-    <td>Inca, Peru (May 2022)</td>
-    <td>Olympic, Washington (Jun 2021)</td>
+    <td>Inca, Peru (May 2021)</td>
+    <td>Zion, Utah (Nov 2020)</td>
 
   </tr>
  </table>
