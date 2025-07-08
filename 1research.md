@@ -14,6 +14,9 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman. Reject and resubmit at **Manufacturing & Service Operations Management**
 - Selected for MSOM SIG spotlight 2024
 
+1. Online Decisions with (Biased) Offline Data, with Hyun-Soo Ahn and Mengzhenyu Zhang.
+Draft available upon request 
+
 1. [Rethinking College Admissions: Can Test-Optional Policies Even the Playing Field?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296222) with Yao Cui and Stefanus Jasin. Under review at **Management Science**
 
 1. [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui. Preparing for submission
