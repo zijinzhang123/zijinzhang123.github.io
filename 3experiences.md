@@ -10,7 +10,7 @@ title: Experiences
 - [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), S.T., Hong Kong, 2019\
 &emsp; Research Fellow
 - [CITIC Group](https://www.citicbank.com/), Beijing, China, 2015\
-&emsp; Credit Risk Analyst Intern
+&emsp; Risk Analyst Intern
 
 ## Community Service
 - INFORMS Annual Conference Session Co-Chair, 2024
