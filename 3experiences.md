@@ -15,14 +15,9 @@ title: Experiences
 ## Community Service
 - INFORMS Annual Conference Session Co-Chair, 2024
 - Invited Speaker at INFORMS Panel: Minority Issues Forum, 2024
-- Invited Speaker at Ross PhD Information Session, 2020 - 2024
-- Student Organizer for Technology & Operations Department Seminar, 2022 - 2023
-- Invited Speaker at Ross GSI Teaching Panel, 2022
-- Communication and Social Chair, Ross School of Business PhD Forum, 2020 - 2022
-- Advisory Board for Rem & Co. (free consulting service to minority-owned local business), 2021
-- Doctoral Program Peer-to-Peer Mentor, University of Michigan, 2020
-- Communication Fellow, Nanjing Museum, 2015 - 2017
-- Vice President, Department of Mathematics, Nanjing University, 2015
+- Invited Speaker at Michigan Ross PhD Information Session, 2020 - 2024
+- Invited Speaker at Michigan Ross GSI Teaching Panel, 2022
+- Communication and Social Chair, Michigan Ross PhD Forum, 2020 - 2022
 
 ## Miscellaneous
 Avid backpacker, squash player, rock climber, tennis learner, and nature explorer

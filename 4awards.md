@@ -9,9 +9,7 @@ title: Awards
 - Ph.D. Fellowship, University of Michigan, 2019 - 2024
 - Michigan Ross China Research Award, 2023
 - Thomas William Leabo Fellowship, 2022 - 2023
-- Early Candidacy Award, Ross School of Business, 2021
 - Academic Scholarship, Nanjing University, 2014 - 2018
-- Merit Student of Jiangsu Province, 2017
 - Second Place, National Citi Cup Financial Innovation Application Contest, 2016
 - First Prize, National Olympiad Informatics Contest, 2013
 
