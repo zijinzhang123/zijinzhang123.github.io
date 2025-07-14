@@ -15,7 +15,6 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 - Selected for MSOM SIG spotlight 2024
 
 1. [Online Decisions with (Biased) Offline Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921), with Hyun-Soo Ahn and Mengzhenyu Zhang.
-Preparing for submission
 
 1. [Rethinking College Admissions: Can Test-Optional Policies Even the Playing Field?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296222) with Yao Cui and Stefanus Jasin. Under review at **Management Science**
 
