@@ -17,7 +17,7 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Online Decisions with (Biased) Offline Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921), with Hyun-Soo Ahn and Mengzhenyu Zhang. Under review
 
 1. [Rethinking College Admissions: Can Test-Optional Policies Even the Playing Field?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296222) with Yao Cui and Stefanus Jasin. Under review <!-- Under review at **Management Science** -->
-- Selected for INFORMS Minority Issues Forum (MIF) Poster Competition 2025 (/public/Poster_MIF_Rethinking_College.pdf)
+- Selected for INFORMS Minority Issues Forum (MIF) Poster Competition 2025 [poster](/public/Poster_MIF_Rethinking_College.pdf)
 
 1. [Capacity Scaling for Observable Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, and Rowan Wang. Under review
 <!-- Under review at **Manufacturing & Service Operations Management** -->
