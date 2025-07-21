@@ -13,7 +13,7 @@ title: Teaching
 - Recipient of 2022 - 2023 Thomas W. Leabo Fellowship for research and teaching excellence
 
 ### Instructional Support, EMBA
-- EMBA 610: Managerial Big Data Analytics, 2022, 2024
+- EMBA 610: Managerial Big Data Analytics, 2022, 2024, 2025
 - EMBA Quantitative Skills Workshop, 2021, 2024
 - EMBA 603: Business Analytics and Statistics for Executives, 2020, 2023
 - Online Executive Education: Value Driven Thinking, 2022
