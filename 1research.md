@@ -23,7 +23,6 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Capacity Scaling for Observable Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, and Rowan Wang. Under review
 <!-- Under review at **Manufacturing & Service Operations Management** -->
 
-
 1. [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui.
 - Michigan Ross China Research Award 2023
 - Selected for oral presentation at APSA Conference 2024
