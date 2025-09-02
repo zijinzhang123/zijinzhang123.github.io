@@ -14,9 +14,11 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman. Reject and resubmit at **Manufacturing & Service Operations Management**
 - Selected for MSOM SIG spotlight 2024
 
-1. [Online Decisions with (Biased) Offline Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921), with Hyun-Soo Ahn and Mengzhenyu Zhang. Under review
+1. [Online Decisions with (Biased) Offline Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921), with Hyun-Soo Ahn and Mengzhenyu Zhang. Under review 
+<!-- at **Management Science**  -->
 
-1. [Rethinking College Admissions: Can Test-Optional Policies Even the Playing Field?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296222) with Yao Cui and Stefanus Jasin. Under review <!-- Under review at **Management Science** --> 
+1. [Rethinking College Admissions: Can Test-Optional Policies Even the Playing Field?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296222) with Yao Cui and Stefanus Jasin. Under review 
+<!-- at **Management Science**  -->
 - Finalist, INFORMS Minority Issues Forum Poster Competition 2025 [\[poster\]](/public/Poster_MIF_Rethinking_College.pdf)
 - Finalist, DSI Doctoral Research Showcase Award 2025
 

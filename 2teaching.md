@@ -10,7 +10,7 @@ title: Teaching
 <img style="display: block; margin: auto;" src="/public/to313_pic.jpeg" alt="drawing" width="420" height = "275"/>
 
 - Teaching Evaluation: **4.9/5.0**, Fall 2021 (class size: 75 students)
-- Recipient of 2022 - 2023 Thomas W. Leabo Fellowship for research and teaching excellence
+- Recipient of 2022 - 2023 Thomas W. Leabo Fellowship for teaching excellence
 
 ### Instructional Support, EMBA
 - EMBA 610: Managerial Big Data Analytics, 2022, 2024, 2025
