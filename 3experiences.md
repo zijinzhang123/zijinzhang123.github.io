@@ -6,7 +6,7 @@ title: Experiences
 ## Working Experiences
 
 - [Oracle](https://www.oracle.com/), Burlington, MA, 2022\
-&emsp; Data Scientist Intern (optimization team at the global business unit)
+&emsp; Data Scientist Intern (retail optimization)
 - [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), S.T., Hong Kong, 2019\
 &emsp; Research Fellow
 - [CITIC Group](https://www.group.citic/en/), Beijing, China, 2015\
