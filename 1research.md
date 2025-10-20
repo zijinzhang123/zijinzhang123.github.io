@@ -14,7 +14,7 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Online Decisions with (Biased) Offline Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921), with Hyun-Soo Ahn and Mengzhenyu Zhang. Major revision at **Operations Research**
 
 1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman. Reject and resubmit at **Manufacturing & Service Operations Management**
-- Selected for MSOM SIG spotlight 2024
+- Accepted for presentation at MSOM SIG spotlight 2024
 
 1. [Rethinking College Admissions: Can Test-Optional Policies Even the Playing Field?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296222) with Yao Cui and Stefanus Jasin. Under review 
 <!-- at **Management Science**  -->
@@ -23,8 +23,8 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 
 1. [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui.
 - Michigan Ross China Research Award 2023
-- Selected for presentation at APSA Conference 2024
-- Selected for Rising Star paper at CES North America Conference 2025
+- Accepted for presentation at APSA Conference 2024
+- Accepted for Rising Star session at CES North America Conference 2025
 
 1. [Capacity Scaling for Observable Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, and Rowan Wang. Revision at **Production and Operations Management**
 <!-- Under review at **Manufacturing & Service Operations Management** -->
