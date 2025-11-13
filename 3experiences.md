@@ -20,7 +20,7 @@ title: Experiences
 - Communication and Social Chair, Michigan Ross PhD Forum, 2020 - 2022
 
 ## Miscellaneous
-Avid backpacker, squash player, rock climber, tennis learner, and nature explorer
+Avid backpacker, squash player, tennis learner, rock climber, and nature explorer
 
 <table style="border:hidden;">
   <tr>
