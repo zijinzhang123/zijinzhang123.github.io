@@ -9,7 +9,7 @@ title: Experiences
 &emsp; Data Scientist Intern (retail optimization)
 - [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), S.T., Hong Kong, 2019\
 &emsp; Research Fellow
-- [CITIC Group](https://www.group.citic/en/), Beijing, China, 2015\
+- [CITIC](https://www.group.citic/en/), Beijing, China, 2015\
 &emsp; Risk Analyst Intern
 
 ## Community Service
