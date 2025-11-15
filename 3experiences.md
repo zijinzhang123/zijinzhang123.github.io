@@ -29,9 +29,9 @@ Avid backpacker, squash player, tennis learner, rock climber, and nature explore
     <td><img src="/public/hike5.jpg" width=250 height=270></td>
   </tr>
   <tr>
-    <td> ACT, Nepal (Apr 2025)</td>
-    <td> Acadia, Maine (Aug 2024) </td>
-    <td> Flynn Reef, Australia (Jan 2023) </td>
+    <td> ACT, Nepal (2025)</td>
+    <td> Acadia, Maine (2024) </td>
+    <td> Flynn Reef, Australia (2023) </td>
   </tr>
   <tr>
     <td><img src="/public/hike1.jpeg" width=250 height=270></td>
@@ -39,9 +39,9 @@ Avid backpacker, squash player, tennis learner, rock climber, and nature explore
     <td><img src="/public/hike00.jpg" width=250 height=270></td>
   </tr>
   <tr>
-    <td>Patagonia, Chile (Nov 2022)</td>
-    <td>Inca, Peru (May 2021)</td>
-    <td>Zion, Utah (Nov 2020)</td>
+    <td>Patagonia, Chile (2022)</td>
+    <td>Inca, Peru (2021)</td>
+    <td>Zion, Utah (2020)</td>
 
   </tr>
  </table>
