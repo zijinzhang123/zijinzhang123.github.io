@@ -16,13 +16,13 @@ title: Teaching
 - Teaching Evaluation: **4.9/5.0**, Fall 2021 (class size: 75 students)
 - Recipient of 2022 - 2023 Thomas W. Leabo Fellowship for teaching excellence
 
-**Instructional Support, EMBA**
+&nbsp; **Instructional Support, EMBA**
 - EMBA 610: Managerial Big Data Analytics, 2022, 2024, 2025
 - EMBA Quantitative Skills Workshop, 2021, 2024
 - EMBA 603: Business Analytics and Statistics for Executives, 2020, 2023
 - Online Executive Education: Value Driven Thinking, 2022
 
-**Teaching Assistant, MBA and PhD**
+&nbsp; **Teaching Assistant, MBA and PhD**
 - MBA Analytics Primer Workshop, 2024
 - TO 550: Introduction to Data Programming, 2024
 - TO 718: Data Analytics, 2023
