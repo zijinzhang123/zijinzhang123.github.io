@@ -7,8 +7,6 @@ title: Teaching
 ### Instructor, BZAN 1021 Operations Management (BBA core)
 - Scheduled Spring 2026
 
-  <br />
-
 ## University of Michigan (Ross School of Business)
 ### Instructor, TO 313 Operations Management (BBA core)
 <!-- **TO 313: Operations Management**, Fall 2021 -->
