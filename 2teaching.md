@@ -6,6 +6,8 @@ title: Teaching
 ## Boston College
 - Instructor, BZAN 1021 Operations Management (BBA core), scheduled 2026
 
+  <br />
+
 ## University of Michigan
 ### Instructor, TO 313 Operations Management (BBA core)
 <!-- **TO 313: Operations Management**, Fall 2021 -->
