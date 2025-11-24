@@ -3,11 +3,11 @@ layout: page
 title: Teaching
 ---
 
-## Boston College (Carroll School of Management)
+## Boston College 
 ### Instructor, BZAN 1021 Operations Management (BBA core)
 - Scheduled Spring 2026
 
-## University of Michigan (Ross School of Business)
+## University of Michigan
 ### Instructor, TO 313 Operations Management (BBA core)
 <!-- **TO 313: Operations Management**, Fall 2021 -->
 
