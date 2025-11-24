@@ -4,11 +4,11 @@ title: Teaching
 ---
 
 ### Boston College 
-**Instructor, BZAN 1021 Operations Management (BBA core)**
+&nbsp; **Instructor, BZAN 1021 Operations Management (BBA core)**
 - Scheduled Spring 2026
 
 ### University of Michigan
-**Instructor, TO 313 Operations Management (BBA core)**
+&nbsp; **Instructor, TO 313 Operations Management (BBA core)**
 <!-- **TO 313: Operations Management**, Fall 2021 -->
 
 <img style="display: block; margin: auto;" src="/public/to313_pic.jpeg" alt="drawing" width="420" height = "275"/>
