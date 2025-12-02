@@ -26,7 +26,7 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui.
 - Michigan Ross China Research Award 2023
 - Selected for presentation at APSA Conference 2024
-- Selected for Rising Star paper at CES North America Conference 2025
+- Selected for Rising Star session at CES North America Conference 2025
 
 <!-- Under review at **Manufacturing & Service Operations Management** -->
 
