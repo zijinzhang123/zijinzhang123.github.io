@@ -4,7 +4,7 @@ title: Awards
 ---
 
 ## Awards & Honors
-- Rackham Doctoral Intern Fellowship, 2024
+- Rackham Doctoral Fellowship, 2024 - 2025
 - Spivey Hall Fellowship, 2023 - 2024
 - Ph.D. Fellowship, University of Michigan, 2019 - 2024
 - Michigan Ross China Research Award, 2023
