@@ -6,9 +6,9 @@ title: Awards
 ## Awards & Honors
 - Rackham Doctoral Fellowship, 2024 - 2025
 - Spivey Hall Fellowship, 2023 - 2024
+- Thomas William Leabo Fellowship, 2022 - 2023
 - Ph.D. Fellowship, University of Michigan, 2019 - 2024
 - Michigan Ross China Research Award, 2023
-- Thomas William Leabo Fellowship, 2022 - 2023
 - Academic Scholarship, Nanjing University, 2014 - 2018
 - Second Place, National Citi Cup Financial Innovation Application Contest, 2016
 - First Prize, National Olympiad Informatics Contest, 2013
