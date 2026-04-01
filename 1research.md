@@ -9,9 +9,11 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 
 <!-- ## Research Papers -->
 
+1. [Online Decisions with (Biased) Offline Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921), with Hyun-Soo Ahn and Mengzhenyu Zhang. Minor revision at **Operations Research**
+
+
 1. [More Data or Better Data? Impact of Costly Data Collection on the Newsvendor Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4949043), with Hyun-Soo Ahn and Lennart Baardman. Major revision at **Management Science**
 
-1. [Online Decisions with (Biased) Offline Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921), with Hyun-Soo Ahn and Mengzhenyu Zhang. Major revision at **Operations Research**
 
 1. [Rethinking College Admissions: Can Test-Optional Policies Even the Playing Field?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296222) with Yao Cui and Stefanus Jasin. Major revision at **Management Science** 
 <!-- at **Management Science**  -->
