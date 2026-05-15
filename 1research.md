@@ -27,7 +27,6 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 
 1. [Creators vs. GenAI: Data Sharing and Compensation in Content Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761318), with Joonho Bae. Under review
 
-
 1. [Multi-LLM Query Optimization](https://arxiv.org/abs/2603.24617), with Arlen Dean, Stefanus Jasin, and Yuqing Liu. Preprint available at *arXiv*
 
 1. [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui.
