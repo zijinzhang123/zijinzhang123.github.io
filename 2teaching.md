@@ -7,7 +7,7 @@ title: Teaching
 &nbsp; **Instructor, BZAN 1021 Operations Management (BBA core)**, 2026 - Present
 
 ### University of Michigan
-&nbsp; **Instructor, TO 313 Operations Management (BBA core)**
+&nbsp; **Instructor, TO 313 Operations Management (BBA core)**, 2021
 <!-- **TO 313: Operations Management**, Fall 2021 -->
 
 <!-- <img style="display: block; margin: auto;" src="/public/to313_pic.jpeg" alt="drawing" width="420" height = "275"/> -->
