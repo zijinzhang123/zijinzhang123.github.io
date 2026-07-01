@@ -4,10 +4,10 @@ title: Teaching
 ---
 
 ### Boston College 
-&nbsp; **Instructor, BZAN 1021 Operations Management (BBA core)**, 2026 - Present
+&nbsp; &nbsp; **Instructor, BZAN 1021 Operations Management (BBA core)**, 2026 - Present
 
 ### University of Michigan
-&nbsp; **Instructor, TO 313 Operations Management (BBA core)**, 2021
+&nbsp; &nbsp; **Instructor, TO 313 Operations Management (BBA core)**, 2021
 <!-- **TO 313: Operations Management**, Fall 2021 -->
 
 <!-- <img style="display: block; margin: auto;" src="/public/to313_pic.jpeg" alt="drawing" width="420" height = "275"/> -->
@@ -15,13 +15,13 @@ title: Teaching
 <!-- - Teaching Evaluation: **4.9/5.0**, Fall 2021 (class size: 75 students) -->
 - Recipient of 2022 - 2023 Thomas W. Leabo Fellowship for teaching excellence
 
-&nbsp; **Instructional Support, EMBA**
+&nbsp; &nbsp; **Instructional Support, EMBA**
 - EMBA 610: Managerial Big Data Analytics, 2022, 2024, 2025
 - EMBA Quantitative Skills Workshop, 2021, 2024
 - EMBA 603: Business Analytics and Statistics for Executives, 2020, 2023
 - Online Executive Education: Value Driven Thinking, 2022
 
-&nbsp; **Teaching Assistant, MBA and PhD**
+&nbsp; &nbsp; **Teaching Assistant, MBA and PhD**
 - MBA Analytics Primer Workshop, 2024
 - TO 550: Introduction to Data Programming, 2024
 - TO 718: Data Analytics, 2023
