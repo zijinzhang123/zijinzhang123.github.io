@@ -11,9 +11,9 @@ title: Teaching
 &nbsp; **Instructor, TO 313 Operations Management (BBA core)**
 <!-- **TO 313: Operations Management**, Fall 2021 -->
 
-<img style="display: block; margin: auto;" src="/public/to313_pic.jpeg" alt="drawing" width="420" height = "275"/>
+<!-- <img style="display: block; margin: auto;" src="/public/to313_pic.jpeg" alt="drawing" width="420" height = "275"/> -->
 
-- Teaching Evaluation: **4.9/5.0**, Fall 2021 (class size: 75 students)
+<!-- - Teaching Evaluation: **4.9/5.0**, Fall 2021 (class size: 75 students) -->
 - Recipient of 2022 - 2023 Thomas W. Leabo Fellowship for teaching excellence
 
 &nbsp; **Instructional Support, EMBA**
