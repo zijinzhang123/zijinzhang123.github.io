@@ -23,7 +23,7 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman. Reject and resubmit at **Manufacturing & Service Operations Management**
 - Selected for presentation at MSOM SIG spotlight 2024
 
-1. [Capacity Scaling for Observable Queues](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, and Rowan Wang. Revision at **Production and Operations Management**
+1. [Too Big to Wait? Capacity Scaling under Congestion Signals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, Rowan Wang, Zhenkun Xu. Revision at **Production and Operations Management**
 
 1. [Creators vs. GenAI: Data Sharing and Compensation in Content Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761318), with Joonho Bae. Under review
 
