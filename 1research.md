@@ -32,7 +32,7 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Rethinking Visibility: The Distribution of Visible and Invisible Public Goods in Autocracies](), with Jingyang Rui<sup>†</sup> and Weikun Yang. Working paper
 - Michigan Ross China Research Award 2023
 - Selected for presentation at APSA Conference 2024
-- Selected for Rising Star session at CES North America cConference 2025
+- Selected for Rising Star session at CES North America Conference 2025
 
 
 <hr>
