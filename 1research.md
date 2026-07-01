@@ -23,21 +23,25 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman. Reject and resubmit at **Manufacturing & Service Operations Management**
 - Selected for presentation at MSOM SIG spotlight 2024
 
-1. [Too Big to Wait? Capacity Scaling under Congestion Signals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, Rowan Wang, Zhenkun Xu. Revision at **Production and Operations Management**
+1. [Too Big to Wait? Capacity Scaling under Congestion Signals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, Rowan Wang, and Zhenkun Xu[^+]. Revision at **Production and Operations Management**
 
 1. [Creators vs. GenAI: Data Sharing and Compensation in Content Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761318), with Joonho Bae. Under review
 
-1. [Non-Adaptive Query Optimization for Multi-LLM Classification: Hardness and Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6916600), with Arlen Dean, Stefanus Jasin, and Yuqing Liu. Under review
+1. [Non-Adaptive Query Optimization for Multi-LLM Classification: Hardness and Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6916600), with Arlen Dean, Stefanus Jasin, and Yuqing Liu[^+]. Under review
 
-1. [Beyond the Promise: Distributional Discordance in China’s Pandemic Control](/public/beyond_the_promise.pdf), with Jingyang Rui.
+1. [Rethinking Visibility: The Distribution of Visible and Invisible Public Goods in Autocracies], with Jingyang Rui[^+] and Weikun Yang. Working paper
 - Michigan Ross China Research Award 2023
 - Selected for presentation at APSA Conference 2024
-- Selected for Rising Star session at CES North America Conference 2025
+- Selected for Rising Star session at CES North America cConference 2025
+
+
+[^+]: studnet coauthors
+
 
 <!-- Under review at **Manufacturing & Service Operations Management** -->
 
 
-<!-- ## Work-in-Progress
+<!-- ## Work-in-Progress (/public/beyond_the_promise.pdf)
 <ol start="5">
   <li>Rethinking College Admissions: Can Test-Optional Policy Even the Playing Field? with Yao Cui and Stefanus Jasin,
 manuscript in preparation </li>
