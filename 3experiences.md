@@ -3,7 +3,7 @@ layout: page
 title: Experiences
 ---
 
-## Working Experiences
+## Work Experience
 
 - [Oracle](https://www.oracle.com/), Burlington, MA, 2022\
 &emsp; Data Scientist Intern (retail optimization)
