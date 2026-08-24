@@ -7,11 +7,11 @@ title: Research
 
 Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm -->
 
-## Publications
+# Publications
 
 1. [Online Decisions with (Biased) Offline Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921), with Hyun-Soo Ahn and Mengzhenyu Zhang. Forthcoming at **Operations Research**
 
-## Working Papers
+# Working Papers
 
 1. [More Data or Better Data? Impact of Costly Data Collection on the Newsvendor Problem](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4949043), with Hyun-Soo Ahn and Lennart Baardman. Major revision at **Management Science**
 
