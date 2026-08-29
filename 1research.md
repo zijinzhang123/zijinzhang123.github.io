@@ -21,7 +21,7 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 <!-- - Selected for INFORMS Minority Issues Forum Poster Competition 2025 [\[poster\]](/public/Poster_MIF_Rethinking_College.pdf) -->
 - Finalist, DSI Doctoral Research Showcase Award 2025
 
-1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman. Reject and resubmit at **Manufacturing & Service Operations Management**
+1. [Inventory Ordering and Product Ranking for Online Curation Retailers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4061071), with Hyun-Soo Ahn and Lennart Baardman. Major revision at **Manufacturing & Service Operations Management**
 - Selected for presentation at MSOM SIG spotlight 2024
 
 1. [Too Big to Wait? Capacity Scaling under Congestion Signals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, Rowan Wang, and Zhenkun Xu<sup>†</sup>. Revision at **Production and Operations Management**
