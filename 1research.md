@@ -7,9 +7,13 @@ title: Research
 
 Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm -->
 
-### Publications
+### Publication
 
+<<<<<<< HEAD
 1. [Online Decisions with (Biased) Offline Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921), with Hyun-Soo Ahn and Mengzhenyu Zhang. **Operations Research**
+=======
+1. [Online Decisions with (Biased) Offline Data](https://pubsonline.informs.org/doi/abs/10.1287/opre.2025.2135), with Hyun-Soo Ahn and Mengzhenyu Zhang. Published at **Operations Research**
+>>>>>>> b5a381b249d73afe92302eae8aa04b4c353f7a0c
 
 ### Working Papers
 
@@ -26,10 +30,10 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 
 1. [Too Big to Wait? Capacity Scaling under Congestion Signals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, Rowan Wang, and Zhenkun Xu<sup>†</sup>. Revision at **Production and Operations Management**
 
-1. [Creators vs. GenAI: Data Sharing and Compensation in Content Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761318), with Joonho Bae.
+1. [Creators vs. GenAI: Data Sharing and Compensation in Content Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761318), with Joonho Bae. Under review
 - Finalist, INFORMS Service Science Cluster Best Paper 2026
 
-1. [Non-Adaptive Query Optimization for Multi-LLM Classification: Hardness and Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6916600), with Arlen Dean, Stefanus Jasin, and Yuqing Liu<sup>†</sup>. 
+1. [Non-Adaptive Query Optimization for Multi-LLM Classification: Hardness and Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6916600), with Arlen Dean, Stefanus Jasin, and Yuqing Liu<sup>†</sup>. Under review
 
 1. [Rethinking Visibility: The Distribution of Visible and Invisible Public Goods in Autocracies](), with Jingyang Rui<sup>†</sup> and Weikun Yang.
 - Michigan Ross China Research Award 2023
