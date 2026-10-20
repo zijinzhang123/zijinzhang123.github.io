@@ -9,11 +9,8 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 
 ### Publication
 
-<<<<<<< HEAD
-1. [Online Decisions with (Biased) Offline Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5350921), with Hyun-Soo Ahn and Mengzhenyu Zhang. **Operations Research**
-=======
-1. [Online Decisions with (Biased) Offline Data](https://pubsonline.informs.org/doi/abs/10.1287/opre.2025.2135), with Hyun-Soo Ahn and Mengzhenyu Zhang. Published at **Operations Research**
->>>>>>> b5a381b249d73afe92302eae8aa04b4c353f7a0c
+
+1. [Online Decisions with (Biased) Offline Data](https://pubsonline.informs.org/doi/abs/10.1287/opre.2025.2135), with Hyun-Soo Ahn and Mengzhenyu Zhang.  **Operations Research**
 
 ### Working Papers
 
