@@ -6,6 +6,8 @@ title: Teaching
 ### Boston College 
 &nbsp; &nbsp; **Instructor, BZAN 1021 Operations Management (BBA core)**, 2026 - Present
 
+- Carroll School Teaching Star Award, 2026
+
 ### University of Michigan
 &nbsp; &nbsp; **Instructor, TO 313 Operations Management (BBA core)**, 2021
 <!-- **TO 313: Operations Management**, Fall 2021 -->
