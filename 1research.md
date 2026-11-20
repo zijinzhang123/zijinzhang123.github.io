@@ -26,6 +26,8 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 
 1. [Too Big to Wait? Capacity Scaling under Congestion Signals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, Rowan Wang, and Zhenkun Xu<sup>†</sup>. Revision at **Production and Operations Management**
 
+1. [Bias Geometry and the Value of Auxiliary Data](), with Stefanus Jasin and Meichun Lin.
+
 1. [Creators vs. GenAI: Data Sharing and Compensation in Content Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761318), with Joonho Bae. Under review
 - Finalist, INFORMS Service Science Cluster Best Paper 2026
 
