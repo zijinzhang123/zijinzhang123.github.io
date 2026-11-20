@@ -31,7 +31,7 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 1. [Creators vs. GenAI: Data Sharing and Compensation in Content Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761318), with Joonho Bae. Submitted
 - Finalist, INFORMS Service Science Cluster Best Paper 2026
 
-1. [Non-Adaptive Query Optimization for Multi-LLM Classification: Hardness and Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6916600), with Arlen Dean, Stefanus Jasin, and Yuqing Liu<sup>†</sup>. Submitted
+1. [Multi-LLM Query Optimization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6916600), with Arlen Dean, Stefanus Jasin, and Yuqing Liu<sup>†</sup>. Submitted
 
 1. [Rethinking Visibility: The Distribution of Visible and Invisible Public Goods in Autocracies](), with Jingyang Rui<sup>†</sup> and Weikun Yang.
 - Michigan Ross China Research Award 2023
