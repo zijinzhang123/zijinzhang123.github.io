@@ -26,12 +26,12 @@ Methodology: Dynamic Optimization, Stochastic Analysis, Approximation Algorithm 
 
 1. [Too Big to Wait? Capacity Scaling under Congestion Signals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628484), with Yang Li, Daniel Zhuoyu Long, Rowan Wang, and Zhenkun Xu<sup>†</sup>. Revision at **Production and Operations Management**
 
-1. [Bias Geometry and the Value of Auxiliary Data](), with Stefanus Jasin and Meichun Lin.
+1. [Bias Geometry and the Value of Auxiliary Data](), with Stefanus Jasin and Meichun Lin. Submitted
 
-1. [Creators vs. GenAI: Data Sharing and Compensation in Content Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761318), with Joonho Bae. Under review
+1. [Creators vs. GenAI: Data Sharing and Compensation in Content Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6761318), with Joonho Bae. Submitted
 - Finalist, INFORMS Service Science Cluster Best Paper 2026
 
-1. [Non-Adaptive Query Optimization for Multi-LLM Classification: Hardness and Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6916600), with Arlen Dean, Stefanus Jasin, and Yuqing Liu<sup>†</sup>. Under review
+1. [Non-Adaptive Query Optimization for Multi-LLM Classification: Hardness and Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6916600), with Arlen Dean, Stefanus Jasin, and Yuqing Liu<sup>†</sup>. Submitted
 
 1. [Rethinking Visibility: The Distribution of Visible and Invisible Public Goods in Autocracies](), with Jingyang Rui<sup>†</sup> and Weikun Yang.
 - Michigan Ross China Research Award 2023
